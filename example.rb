@@ -1,3 +1,3 @@
-name = "Halton"
+array = ["Halton", "Jeff", "Chris"]
 
-puts "Hello #{name}"
+puts array
