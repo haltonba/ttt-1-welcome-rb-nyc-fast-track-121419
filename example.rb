@@ -1,9 +1,5 @@
-
-
-
-def names
-  array = ["Halton", "Jeff", "Chris"]
-  puts "#{array[0]} #{array[1]} #{array[2]}".upcase
+def greet(name)
+  puts "Hello #{name}"
 end
 
-names
+greet("Jeff")
